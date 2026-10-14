@@ -1,12 +1,12 @@
 # Hi, I'm Sushmitha 👋
 
-🧠 Medical Engineer | Neurotech & Assistive Technology
+B.Tech in Medical Engineering · Chennai, India
 
 ---
 
 ## 🚀 About Me
 
-I'm a medical engineer from Chennai, interested in how technology can read, support and restore the **nervous system**. I also co-run [Kareway Health](#), a home care company working with patients after stroke, with movement disorders, dementia and other neurological conditions. A lot of my work starts with something I've seen at a patient's bedside.
+I studied medical engineering, and I'm interested in how technology can read, support and restore the **nervous system**. I also co-run [Kareway Health](#), a home care company working with patients after stroke, with movement disorders, dementia and other neurological conditions. A lot of my work starts with something I've seen at a patient's bedside.
 
 - 🧠 Using data to understand how neurological conditions progress, from motor symptoms to cognitive decline
 - 🫀 Reading the body's signals (ECG, HRV, infrared) as a window into autonomic and neural health
@@ -44,39 +44,6 @@ I'm a medical engineer from Chennai, interested in how technology can read, supp
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge)
 
-### 🫀 [HRV-Based Cognitive Monitoring In Parkinson's](https://github.com/sushmithakishore/HRV-Cognitive-Monitoring-Parkinsons)
-
-- Built an image processing pipeline that reads an ECG printout and extracts R-R intervals
-- Calculated heart rate variability (SDNN, RMSSD) as a marker of autonomic function
-- Used SVM classification and linear regression to estimate cognitive state from HRV
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🧠 [Deep Learning For Cognitive Risk In Atypical Parkinsonism](https://github.com/sushmithakishore/DL-Cognitive-Risk-Atypical-Parkinsonism)
-
-- Built a 3-model neural network ensemble to stratify cognitive risk from clinical biomarkers
-- Combined PCA features with processed biomarkers, using batch norm, dropout and class balancing
-- Exported per-patient risk scores and evaluated with ROC-AUC, F1 and confusion matrices
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌡️ [Non-Contact Infrared Facial Analysis](https://github.com/sushmithakishore/Non-Contact-Infrared-Facial-Analysis)
-
-- Built a contactless infrared imaging pipeline with CLAHE enhancement and face detection
-- Fine-tuned DenseNet-121 with transfer learning, reaching 85.7% validation accuracy
-- Used Grad-CAM to show which facial regions drove each prediction
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### 🩺 [Kareway Bedside Care Tracker](https://github.com/sushmithakishore/Kareway-Bedside-Care-Tracker)
 
 - Built a care tracking app for Kareway Health caregivers: vitals, medications, fluids, diet and sleep
@@ -100,6 +67,15 @@ I'm a medical engineer from Chennai, interested in how technology can read, supp
 ![SUMO](https://img.shields.io/badge/SUMO-TraCI-4CAF50?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-8E44AD?style=for-the-badge)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-6DB33F?style=for-the-badge)
+
+---
+
+## 🗂️ Other Projects
+
+- 🫀 [HRV-Based Cognitive Monitoring In Parkinson's](https://github.com/sushmithakishore/HRV-Cognitive-Monitoring-Parkinsons): ECG image to heart rate variability to cognitive state
+- 🧠 [Deep Learning For Cognitive Risk In Atypical Parkinsonism](https://github.com/sushmithakishore/DL-Cognitive-Risk-Atypical-Parkinsonism): neural network ensemble on clinical biomarkers
+- 🌡️ [Non-Contact Infrared Facial Analysis](https://github.com/sushmithakishore/Non-Contact-Infrared-Facial-Analysis): infrared imaging pipeline with DenseNet-121 and Grad-CAM
+- 🏥 [PACS Telemedicine Diagnostic Viewer](https://github.com/sushmithakishore/<repo-name>): web-based viewer for remote radiology workflows
 
 ---
 
