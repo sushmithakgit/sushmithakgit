@@ -6,14 +6,14 @@ B.Tech in Medical Engineering · Chennai, India
 
 ## 🚀 About Me
 
-I studied medical engineering, and I'm interested in how technology can read, support and restore the **nervous system**. I also co-run [Kareway Health](#), a home care company working with patients after stroke, with movement disorders, dementia and other neurological conditions. A lot of my work starts with something I've seen at a patient's bedside.
+I studied medical engineering, and I'm interested in how technology can read, support and restore the **nervous system**. I also am the managing director of Kareway Health, a home care company working with patients after stroke, with movement disorders, dementia and other neurological conditions. A lot of my work starts with something I've seen at a patient's bedside.
 
 - 🧠 Using data to understand how neurological conditions progress, from motor symptoms to cognitive decline
 - 🫀 Reading the body's signals (ECG, HRV, infrared) as a window into autonomic and neural health
 - 🗣️ Building communication and assistive tools for patients who've lost speech or movement
 - 🤖 Applying deep learning, reinforcement learning and explainable AI to clinical problems
 
-📍 Chennai, India | 📫 [contact@sushmithakishore.info](mailto:contact@sushmithakishore.info)
+📍 Chennai, India | 📫 [sushmitha@karewayhealth.in](mailto:sushmitha@karewayhealth.in)
 
 ---
 
@@ -75,7 +75,6 @@ I studied medical engineering, and I'm interested in how technology can read, su
 - 🫀 [HRV-Based Cognitive Monitoring In Parkinson's](https://github.com/sushmithakishore/HRV-Cognitive-Monitoring-Parkinsons): ECG image to heart rate variability to cognitive state
 - 🧠 [Deep Learning For Cognitive Risk In Atypical Parkinsonism](https://github.com/sushmithakishore/DL-Cognitive-Risk-Atypical-Parkinsonism): neural network ensemble on clinical biomarkers
 - 🌡️ [Non-Contact Infrared Facial Analysis](https://github.com/sushmithakishore/Non-Contact-Infrared-Facial-Analysis): infrared imaging pipeline with DenseNet-121 and Grad-CAM
-- 🏥 [PACS Telemedicine Diagnostic Viewer](https://github.com/sushmithakishore/<repo-name>): web-based viewer for remote radiology workflows
 
 ---
 
